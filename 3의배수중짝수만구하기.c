@@ -6,16 +6,16 @@ int main() {
 	printf("n의 값을 입력 하세요 : ");
 	scanf("%d", &n);
 
-		while (i < n) {
+	while (i < n) {
 
-			i = i + 1;
+		i = i + 1;
 
-			if (i % 3 == 0 && i % 2 == 0) {
+		if (i % 3 == 0 && i % 2 == 0) {
 
-				sum = sum + i;
-			}
+			sum = sum + i;
 		}
+	}
 
-	printf("합 : %d", sum);
+	printf("합 : %d \n", sum);
 	return 0;
 }
