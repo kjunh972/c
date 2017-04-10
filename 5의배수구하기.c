@@ -16,6 +16,6 @@ void main() {
 		}
 	}
 
-	printf(" : %d \n", sum);
+	printf("합 : %d \n", sum);
 
 }
