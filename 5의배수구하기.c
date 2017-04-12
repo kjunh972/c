@@ -3,7 +3,7 @@ void main() {
 
 	int i = 0, sum = 0, n = 0;
 
-	printf("nюг ╟╙ю╩ ют╥б го╪╪©Д : ");
+	printf("nЛ²≤ Й╟▓Л²└ Л·┘К═╔ М∙≤Л└╦Л ■ : ");
 	scanf("%d", &n);
 
 	while (i < n) {
@@ -16,6 +16,6 @@ void main() {
 		}
 	}
 
-	printf("гу : %d \n", sum);
+	printf("М∙╘ : %d \n", sum);
 
 }
