@@ -3,7 +3,7 @@ int main() {
 
 	int i = 0, sum = 0, n = 0;
 
-	printf("nÀÇ °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä : ");
+	printf("nì˜ ê°’ì„ ì…ë ¥í•˜ì„¸ìš” : ");
 	scanf("%d" , &n);
 
 	for (i = 1; i <= n; i++) {
@@ -12,7 +12,7 @@ int main() {
 
 }
 
-	printf("ÇÕ : %d", sum);
+	printf("í•© : %d", sum);
 	return 0;
 
 }
