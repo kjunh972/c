@@ -12,5 +12,5 @@ int main()
 		if (max < arr[i])
 			max = arr[i];
 	}
-	printf("최대 : %d", max);
+	printf("최대: %d", max);
 }
