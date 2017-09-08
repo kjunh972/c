@@ -1,3 +1,5 @@
+﻿//SWAP 알고리즘 사용. 오름차순으로 정렬 하기 2
+
 #include <stdio.h>
 int main()
 {
