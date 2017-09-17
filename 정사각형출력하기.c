@@ -4,7 +4,7 @@ int main(void)
     int n;
     int i, j;
  
-    printf("출력할 라인 수: ");
+    printf(": ");
     scanf_s("%d", &n);
     
     for (i = 0; i < n; i++)
