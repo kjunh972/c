@@ -4,7 +4,8 @@ int main(void)
     int n;
     int i, j;
  
-    printf("Ãâ·ÂÇÒ ¶óÀÎ ¼ö: ");
+    printf("ì¶œë ¥í•  ë¼ì¸ ìˆ˜: ");
+    
     scanf_s("%d", &n);
     
     for (i = 0; i < n; i++)
