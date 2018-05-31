@@ -8,11 +8,11 @@ int main()
 
  
 
-	printf("¼ıÀÚÀÔ·Â : ");
+	printf("ìˆ«ìì…ë ¥ : ");
 
 	scanf_s("%d", &num1);
 
- printf("%dÀÇ ¾à¼ö : ",num1); 
+ printf("%ì˜ ì•½ìˆ˜ : ",num1); 
 
 	while (num<=num1)
 
